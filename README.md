@@ -1,9 +1,9 @@
-# Password Manager in Python
+# 🛠️ Password Manager in Python
 I created a simple user data management application written in Python. The program allows for:
-  Adding new users and their passwords,
-  Sorting stored data by username,
-  Displaying all saved usernames and passwords,
-  Deleting stored data.
+  1. adding new users and their passwords,
+  2. sorting stored data by username,
+  3. displaying all saved usernames and passwords,
+  4. deleting stored data.
 
 The application stores data in text files, making it easy to modify and manage information.
 The program runs in a loop with an interactive menu, offering various options and allowing the user to easily test each functionality. Thanks to the intuitive interface, the application is simple and convenient to use.
